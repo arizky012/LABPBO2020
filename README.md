@@ -1,9 +1,17 @@
+#TUGAS DI PERIKSA TIAP 4 MINGGU SEKALI HARI JUMAT MALAM
+
 # LABPBO2020
 
 1. Fork Repository ini
 2. Clone Repository Hasil Fork yang ada pada repository
 
 ## CARA PUSH / UPLOAD TUGAS
+
+### Push Tuagas per Praktikum
+misal : 
+push praktikum 1
+push praktikum 2
+...
 
 1. Buka Folder Sesuai NIM anda
 2. Buat folder baru sesuai tugas praktikum, contoh :
