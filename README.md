@@ -7,7 +7,7 @@
 
 ## CARA PUSH / UPLOAD TUGAS
 
-### Push Tuagas per Praktikum
+## Push Tuagas per Praktikum
 misal : 
 push praktikum 1
 push praktikum 2
