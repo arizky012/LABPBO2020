@@ -7,10 +7,10 @@
 
 ## CARA PUSH / UPLOAD TUGAS
 
-## Push Tuagas per Praktikum
-misal : 
-push praktikum 1
-push praktikum 2
+## Push Tugas per Praktikum
+misal :
+> push praktikum 1
+> push praktikum 2
 ...
 
 1. Buka Folder Sesuai NIM anda
