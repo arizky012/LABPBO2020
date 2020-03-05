@@ -8,10 +8,7 @@
 ## CARA PUSH / UPLOAD TUGAS
 
 ## Push Tugas per Praktikum
-misal :
-> push praktikum 1
-> push praktikum 2
-...
+misal : push praktikum 1, lalu push praktikum 2, dst
 
 1. Buka Folder Sesuai NIM anda
 2. Buat folder baru sesuai tugas praktikum, contoh :
