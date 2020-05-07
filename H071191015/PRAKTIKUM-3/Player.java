@@ -116,7 +116,7 @@ public class Player {
                 break;
             case 3:
                 System.out.println("Berhasil Dibeli");
-                items.add(new Item("Poison", 100, "hp increases by 20"));
+                items.add(new Item("Potion", 100, "hp increases by 20"));
                 money -= 100;
                 break;
         }
@@ -134,7 +134,7 @@ public class Player {
                 hp+=30;
             } else if (items.get(in).getName()=="Mask") {
                 hp+=10;
-            } else if (items.get(in).getName()=="Poison") {
+            } else if (items.get(in).getName()=="Potion") {
                 energy+=20;
             }
             System.out.println(items.get(in).getName() + " is used");
