@@ -117,6 +117,7 @@ public class Main extends Application {
             Button tutupButton = new Button("Tutup");
             tutupButton.setOnAction(actionEvent1 -> secondaryStage.close());
             TextArea grupData = new TextArea(getDataGrup());
+            grupData.setEditable(false);
             
             showPane.setCenter(grupData);
             BorderPane.setAlignment(tutupButton, Pos.CENTER_RIGHT);
