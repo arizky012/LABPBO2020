@@ -1,7 +1,7 @@
 package app;
 
 public class Staf extends Pegawai{
-
+  
     Staf(String nama) {
         super(nama);
     }

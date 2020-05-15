@@ -1,7 +1,7 @@
 package app;
 
 public class Pegawai {
-
+ 
     Integer gaji = 2500000;
     String nama;
 
