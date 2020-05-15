@@ -14,11 +14,11 @@ public class Box extends ThreeDimensionalShape{
     }
 
     public double getVolume() {
-        return width * lenght *height;
+        return width * lenght * height;
     }
 
     public double getSurfaceArea() {
-        return 2 * (lenght *width + width * height + lenght * height);
+        return 2 * (lenght * width + width * height + lenght * height);
     }
 
     public void show() {

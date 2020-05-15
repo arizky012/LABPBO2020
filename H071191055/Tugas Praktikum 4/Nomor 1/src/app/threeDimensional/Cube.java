@@ -20,7 +20,7 @@ public class Cube extends ThreeDimensionalShape{
     public void show() {
         System.out.println();
         System.out.println("---- Kubus ----");
-        System.out.printf("Sisi \t\t: %.2f cm\n");
+        System.out.printf("Sisi \t\t: %.2f cm\n", sideA);
         super.show();
     }
 }
