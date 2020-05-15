@@ -77,6 +77,7 @@ public class Main extends Application {
                 Button klikBayarBtn = new Button("Bayar");
                 klikBayarBtn.setOnAction(actionEvent1 -> {
                     dataBase.bayar();
+                    keranjangTA.setText(dataBase.printDetailKeranjang());
                     secondaryStage.close();
                 });
                 klikBayarBtn.setPrefWidth(100);
